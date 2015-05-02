@@ -1,5 +1,5 @@
 # Intro Rails
-## Sessions and Users
+## Sessions and Users, from Scratch
 
 
 | Objectives |
